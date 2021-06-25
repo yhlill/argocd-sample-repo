@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/yh9373/yhrepo1:ae597c6485daf580669f0cdc70cbcee346774e36
+      - image: docker.io/yh9373/yhrepo1:d28d887bb79b0760b54771a217f9a6df6831e376
         name: blue
         ports:
           - containerPort: 80
